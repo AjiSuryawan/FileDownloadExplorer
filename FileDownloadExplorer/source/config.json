@@ -1,0 +1,24 @@
+{
+	"ConfigName": "",
+	"FileExtension": "txt;json;xml",
+	"Instances": [
+		{
+			"Name": "euqc",
+			"CompanyId": "EQ35",
+			"Folder": "C:\\Users\\Asus\\Desktop\\datafile",
+			"PrefixDefault": "Org_"
+		},
+		{
+			"Name": "euprod",
+			"CompanyId": "EQ35",
+			"Folder": "C:\\Users\\Asus\\Desktop\\datafile",
+			"PrefixDefault": "Org_"
+		},
+		{
+			"Name": "eusdw",
+			"CompanyId": "EQ35",
+			"Folder": "C:\\Users\\Asus\\Desktop\\datafile",
+			"PrefixDefault": "Org_"
+		}
+	]
+}
